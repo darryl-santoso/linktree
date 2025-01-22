@@ -4,7 +4,7 @@ const App = () => {
   const links = [
     { id: 1, text: "Portofolio", url: "https://my-portofolio-new.vercel.app/" },
     { id: 2, text: "Linkedin", url: "https://www.linkedin.com/in/darrylsantoso/" },
-    { id: 3, text: "CV", url: "/public/CV.pdf" },
+    { id: 3, text: "CV", url: "/CV.pdf" },
     { id: 4, text: "Github", url: "https://github.com/darryl-santoso" },
   ];
 
