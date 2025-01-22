@@ -12,11 +12,13 @@ const App = () => {
     <div className="main-container">
       <div className="linktree-container">
         <header className="profile">
-          <img
-            src="/images/fotoProfile.png"
-            alt="Profile"
-            className="profile-image"
-          />
+          <div className="image-container">
+            <img
+              src="/images/fotoProfile.png"
+              alt="Profile"
+              className="profile-image"
+            />
+          </div>
           <h2 className="username">Darryl Santoso</h2>
         </header>
         <section className="links">
